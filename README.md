@@ -1,4 +1,4 @@
-Olá, Sou Eric, atualmente Analista de Sistemas.
+## Olá, Sou Eric Junior.
 
 <a href="https://github.com/EricFNL1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EricFNL1&show_icons=true&theme=radical" />
