@@ -24,3 +24,11 @@ Aprendendo e utilizando:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricFNL1/EricFNL1/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+Redes Sociais
+<div style="display: inline_block" >
+<a href="https://www.linkedin.com/in/ericf12/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+</a
+</div> 
