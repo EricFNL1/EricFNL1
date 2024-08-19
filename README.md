@@ -1,9 +1,9 @@
 ## Olá, Sou Eric Junior.
 
-💻 - Analista de Sistemas||
-🧑🏾‍💻 - Em busca da tão sonhada vaga de dev||
-📚 - Graduado em Análise e Desenvolvimento de Sistemas||
-📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma||
+💻 - Analista de Sistemas|| <br>
+🧑🏾‍💻 - Em busca da tão sonhada vaga de dev|| <br>
+📚 - Graduado em Análise e Desenvolvimento de Sistemas|| <br>
+📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma|| <br>
 
 
 
