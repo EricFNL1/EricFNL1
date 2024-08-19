@@ -1,10 +1,10 @@
 Olá, Sou Eric, atualmente Analista de Sistemas.
 
 <a href="https://github.com/EricFNL1/github-readme-stats">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFNL1&show_icons=true&theme=radical)
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EricFNL1" />
 </a>
-<a href="https://github.com/EricFNL1/github-readme-stats">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricFNL1&layout=donut)](https://github.com/EricFNL1/github-readme-stats)
+<a href="https://github.com/EricFNL1/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricFNL1&layout=compact&langs_count=8&card_width=320" />
 </a>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricFNL1/EricFNL1/output/github-contribution-grid-snake-dark.svg">
