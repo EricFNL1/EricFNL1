@@ -7,7 +7,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricFNL1&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div style="display: inline_block" >
-<img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
+<img  width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 </div>  
 
 <picture align="center">
