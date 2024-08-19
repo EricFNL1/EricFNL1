@@ -1,7 +1,5 @@
 Olá, Sou Eric, atualmente Analista de Sistemas.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFNL1)](https://github.com/EricFNL1/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricFNL1&show_icons=true&theme=radical)
 
 <picture align="center">
