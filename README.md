@@ -1,5 +1,12 @@
 ## Olá, Sou Eric Junior.
 
+💻 - Analista de Sistemas||
+🧑🏾‍💻 - Em busca da tão sonhada vaga de dev||
+📚 - Graduado em Análise e Desenvolvimento de Sistemas||
+📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma||
+
+
+
 <a href="https://github.com/EricFNL1/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EricFNL1&show_icons=true&theme=radical" />
 </a>
