@@ -2,6 +2,7 @@
 
 💻 - Analista de Sistemas|| <br>
 🧑🏾‍💻 - Em busca da tão sonhada vaga de dev|| <br>
+📝 - Experiência com Redes e infraestrutura || <br>
 🗣️ - Inglês Intermediário|| <br>
 📚 - Graduado em Análise e Desenvolvimento de Sistemas|| <br>
 📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma|| <br>
@@ -45,3 +46,4 @@ Aprendendo e utilizando:
 </a>
 <a href="https://instagram.com/nexustech957" rel="nofollow"><img src="https://camo.githubusercontent.com/cc8a4ea180871317216b7557a7a9b8f1b565ce74863323097aa367961c70de96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 </div> 
+
