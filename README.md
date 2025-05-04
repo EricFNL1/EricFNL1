@@ -1,9 +1,11 @@
-## Olá, Sou Eric Junior.
+## Olá, Sou Eric Cesar.
 
 💻 - Analista de TI || <br>
-📝 - Experiência com Redes e infraestrutura || <br>
+🖥️ - Experiência com Programação e banco de dados || <br>
+🌐 - Experiência com Redes e infraestrutura || <br>
+📞 - Experiência com Suporte || <br>
 🗣️ - Inglês Intermediário || <br>
-📚 - Graduado em Análise e Desenvolvimento de Sistemas || <br>
+🎓 - Graduado em Análise e Desenvolvimento de Sistemas || <br>
 📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma (05/06)|| <br>
 
 
@@ -16,7 +18,7 @@
 </a>
 
 ##
-Aprendendo e utilizando:
+Utilizando e trabalhando com:
 <div style="display: inline_block" >
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
