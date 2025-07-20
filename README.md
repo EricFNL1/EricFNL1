@@ -1,12 +1,12 @@
 ## Olá, Sou Eric Cesar.
 
-💻 - Analista de TI || <br>
+💻 - Analista de TI - Desenvolvedor PL/SQL|| <br>
 🖥️ - Experiência com Programação e banco de dados || <br>
 🌐 - Experiência com Redes e infraestrutura || <br>
 📞 - Experiência com Suporte || <br>
 🗣️ - Inglês Intermediário || <br>
 🎓 - Graduado em Análise e Desenvolvimento de Sistemas || <br>
-📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma (05/06)|| <br>
+📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma (06/06)|| <br>
 
 
 
