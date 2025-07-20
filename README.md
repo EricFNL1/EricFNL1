@@ -1,6 +1,6 @@
 ## Olá, Sou Eric Cesar.
 
-💻 - Analista de TI - Desenvolvedor PL/SQL|| <br>
+💻 - Analista de TI - Desenvolvedor PL/SQL || <br>
 🖥️ - Experiência com Programação e banco de dados || <br>
 🌐 - Experiência com Redes e infraestrutura || <br>
 📞 - Experiência com Suporte || <br>
