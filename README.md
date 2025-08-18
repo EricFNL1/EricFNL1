@@ -2,6 +2,7 @@
 
 💻 - Analista de TI - Desenvolvedor PL/SQL || <br>
 🖥️ - Experiência com Programação e banco de dados || <br>
+👨‍💻 - Experiência com Integrações entre diversos sistemas || <br>
 🌐 - Experiência com Redes e infraestrutura || <br>
 📞 - Experiência com Suporte || <br>
 🗣️ - Inglês Intermediário || <br>
@@ -23,6 +24,7 @@ Utilizando e trabalhando com:
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />     
+  <img  width="50" height="50" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>  
 
 <picture align="center">
