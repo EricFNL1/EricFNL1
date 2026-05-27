@@ -9,15 +9,6 @@
 🎓 - Graduado em Análise e Desenvolvimento de Sistemas || <br>
 🎓 - Graduado em Desenvolvimento de Software Multiplataforma || <br>
 
-
-
-<a href="https://github.com/EricFNL1/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EricFNL1&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/EricFNL1/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricFNL1&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ##
 Utilizando e trabalhando com:
 <div style="display: inline_block" >
@@ -32,13 +23,3 @@ Utilizando e trabalhando com:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricFNL1/EricFNL1/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
-##
-## Redes Sociais:
-<div style="display: inline_block" >
-<a href="https://www.linkedin.com/in/ericf12/">
-<img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://instagram.com/faria_eric/" rel="nofollow"><img src="https://camo.githubusercontent.com/cc8a4ea180871317216b7557a7a9b8f1b565ce74863323097aa367961c70de96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-</div> 
-
